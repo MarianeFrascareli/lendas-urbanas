@@ -1,0 +1,45 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-darkgray {
+    background-color: #333;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.btn-custom {
+    color: #fff;
+    border-color: #fff;
+}
+
+.carousel-item img {
+    width: 800px;
+    height: 800px;
+    object-fit: fill;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    border-top: 2px solid black;
+    font-size: 32px;
+}
+
+
+.custom-list-group .list-group-item {
+    color: white;
+}
